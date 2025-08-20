@@ -23,4 +23,9 @@ Click the button below to access the **Interview Prep Tracker**:
 ---
 
 ## 📂 Project Structure
+Interview_prep_tracker/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
